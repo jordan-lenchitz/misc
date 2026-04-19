@@ -4,7 +4,7 @@
 
 likes: 
 - hard problems
-- open source
+- free and open-source software
 - the string quartets of ben johnston
 
 dislikes: too many to list here whoops
@@ -13,9 +13,9 @@ dislikes: too many to list here whoops
 
 > beyond mychart central i work with FIS on their [open-source M implementation GT.M ("Greystone Technology MUMPS")](https://sourceforge.net/projects/fis-gtm/)
 
-> if you love FOSS check out this cool release note i validated [(GTM-10833)](https://fis-gtm.sourceforge.io/releasenotes/GTM_V7.1-009_Release_Notes.html#id29)
+> if you love free and open-source software check out this cool release note i validated [(GTM-10833)](https://fis-gtm.sourceforge.io/releasenotes/GTM_V7.1-009_Release_Notes.html#id29)
 
-> if you do not love FOSS go read GT.M's [original gnu/linux open source press release](https://web.archive.org/web/20001209123800/http://linuxpr.com/releases/2859.html) and then you will :) 
+> if you do not love free and open-source software go read GT.M's [original gnu/linux open source press release](https://web.archive.org/web/20001209123800/http://linuxpr.com/releases/2859.html) and then you will :) 
 
 > i have also been involved in autism advocacy work at epic, feel free to ama
 
