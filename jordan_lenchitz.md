@@ -1,5 +1,6 @@
-i write .m files for a living,
-mostly mumps and matlab.
+>[jordan](https://youtube.com/@jordan-lenchitz/videos)
+
+>[lenchitz](https://scholar.google.com/citations?user=pDsbnHcAAAAJ&hl=en)
 
 likes: 
 - hard problems
@@ -8,7 +9,7 @@ likes:
 
 dislikes: too many to list here whoops
 ## experience
-**site reliability engineer** · epic hosting llc · jun 2023 to present
+**[site](https://central.mychart.org) reliability engineer** · epic hosting llc · jun 2023 to present
 
 **adjunct assistant professor of music** · university of florida · jan to may 2023
 
