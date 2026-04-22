@@ -53,8 +53,7 @@ dislikes: too many to list here whoops
 
 > with an emphasis on music cognition, computational music cognition, and the musicals of stephen sondheim
 
-dissertation is
-*listening to a cappella singing: an ecological approach*
+[dissertation](https://github.com/jordan-lenchitz/listening) = listening to *a cappella* singing: an ecological approach
 
 **indiana university bloomington (2018)** 
 
