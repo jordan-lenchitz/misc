@@ -1,6 +1,4 @@
-
 [(linkedin)](https://www.linkedin.com/in/jordan-lenchitz/)
-
 
 ## [jordan](https://youtube.com/@jordan-lenchitz/videos) [lenchitz](https://scholar.google.com/citations?user=pDsbnHcAAAAJ&hl=en)
 
@@ -67,3 +65,6 @@ dissertation is
 > bachelor of music in music composition and piano performance with high distinction and honors in music
 
 ## references and esoteric trivia available upon request
+
+## contact
+jlenchitz@fsu.edu
