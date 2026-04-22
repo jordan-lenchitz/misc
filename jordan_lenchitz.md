@@ -57,7 +57,7 @@ dislikes: too many to list here whoops
 
 **indiana university bloomington (2018)** 
 
-> bachelor of arts in french with higest distinction
+> bachelor of arts in french with highest distinction
 
 > bachelor of arts in mathematics with highest distinction and honors in mathemitics
 
