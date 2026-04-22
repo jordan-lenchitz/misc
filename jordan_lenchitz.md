@@ -1,6 +1,8 @@
-# [jordan](https://youtube.com/@jordan-lenchitz/videos)
 
-# [lenchitz](https://scholar.google.com/citations?user=pDsbnHcAAAAJ&hl=en)
+[(linkedin)](https://www.linkedin.com/in/jordan-lenchitz/)
+
+
+## [jordan](https://youtube.com/@jordan-lenchitz/videos) [lenchitz](https://scholar.google.com/citations?user=pDsbnHcAAAAJ&hl=en)
 
 likes: 
 - hard problems
