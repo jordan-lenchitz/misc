@@ -1,0 +1,68 @@
+Homepage
+Primary navigation
+Project
+P
+Project Beta
+
+Pinned
+
+Manage
+
+Plan
+
+Code
+Merge requests
+2
+Repository
+Branches
+Commits
+Tags
+Repository graph
+Compare revisions
+Snippets
+
+Settings
+Server Systems Developers
+Project Beta
+main
+project-beta
+src
+config
+sample.conf
+ sample.conf  4.2 KiB
+Newer           Older
+alice@example.com's avatar
+initial config
+ 
+alice@example.com committed Jan 5, 2020
+1
+2
+3
+<config>
+  <option>default</option>
+  <enabled>1</enabled>
+bob@example.com's avatar
+add timeout setting from project 1234
+ 
+bob@example.com committed Mar 12, 2020
+4
+  <timeout>30</timeout>
+carol@example.com's avatar
+multi-line message
+add retry logic
+related to issue 5678
+ 
+carol@example.com committed Jul 22, 2021
+5
+6
+7
+  <retry>
+    <count>3</count>
+  </retry>
+alice@example.com's avatar
+close root tag
+ 
+alice@example.com committed Aug 1, 2021
+8
+</config>
+1
