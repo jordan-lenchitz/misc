@@ -17,7 +17,7 @@ likes:
 
 dislikes: too many to list here whoops
 ## experience
-**[site](https://central.mychart.org) reliability engineer** · epic systems's epic hosting · jun 2023 to present
+**[site](https://central.mychart.org) reliability engineer** · epic systems's epic hosting · jun 2023 to may 2026
 
 > beyond mychart central i work with FIS on their [open-source M implementation GT.M ("Greystone Technology MUMPS")](https://sourceforge.net/projects/fis-gtm/)
 
