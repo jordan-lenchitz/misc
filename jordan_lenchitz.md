@@ -1,12 +1,12 @@
 
 
-## [jordan](https://youtube.com/@jordan-lenchitz/videos) 
+## [jordan (youtube)](https://youtube.com/@jordan-lenchitz/videos) 
 
 
-## [lenchitz](https://scholar.google.com/citations?user=pDsbnHcAAAAJ&hl=en)
+## [lenchitz (google scholar)](https://scholar.google.com/citations?user=pDsbnHcAAAAJ&hl=en)
 
 
-[(linkedin)](https://www.linkedin.com/in/jordan-lenchitz/)
+[(jordan lenchitz linkedin)](https://www.linkedin.com/in/jordan-lenchitz/)
 
 
 
