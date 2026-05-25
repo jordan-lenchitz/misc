@@ -1,1 +1,1 @@
-see https : / / resume . jordanlenchitz . org
+please visit [`https://resume.jordanlenchitz.org`](https://resume.jordanlenchitz.org)
